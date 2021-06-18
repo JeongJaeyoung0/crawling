@@ -1,3 +1,2 @@
 # crawler
-
-Ver. Jupyter Notebook (Anaconda3)
+크롤러(크롤링)
