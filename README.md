@@ -1,2 +1,2 @@
-# crawler
-크롤러(크롤링)
+# crawling
+크롤링
